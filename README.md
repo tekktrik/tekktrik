@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @tekktrik, a mechanical engineer who escaped CAD and found git!
-- 👀 I’m interested in robotics and automation, and all things CircuitPython and CPython
-- 🌱 I’m currently learning embedded C and robotics in graduate school
-- 💞️ I’m looking to collaborate on anything related to microcontrollers, Python, or automation
+I make things, some better then others, but all open-source!
+
+I'm a a mechanical engineer who escaped CAD and found `git`.  I work primarily on
+CircuitPython, with a focus on writing hardware driviers, improving documentation,
+and maintaining codebase infrastructure.
+
+My passions are robotics and automation, and I'm always up for contributing to these
+subjects! Let me know if you want to collaborate!
+
+Some of my more notable libraries are pinned.
+
+> - Mechanical engineering by profession
+> - Electrical engineering by provision
+> - Software engineering by passion
+
+Mixologist, D&D player, tinkerer, Pythonista, open-source enthusiast
 
 <!---
 tekktrik/tekktrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
