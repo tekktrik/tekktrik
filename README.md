@@ -1,19 +1,27 @@
-I make things, some better then others, but all open-source!
+### I make things, some better then others, but all open-source!
 
 I'm a a mechanical engineer who escaped CAD and found `git`.  I work primarily on
 CircuitPython, with a focus on writing hardware driviers, improving documentation,
 and maintaining codebase infrastructure.
 
+*Sponsored by Adafruit to work on CircuitPython!*
+
+### Talk to me about...
+
 My passions are robotics and automation, and I'm always up for contributing to these
 subjects! Let me know if you want to collaborate!
 
-Some of my more notable libraries are pinned.
+Some of my more interesting libraries are pinned.
+
+### More about me...
+
+Mixologist, D&D player, tinkerer, Pythonista, open-source enthusiast
 
 > - Mechanical engineering by profession
 > - Electrical engineering by provision
 > - Software engineering by passion
 
-Mixologist, D&D player, tinkerer, Pythonista, open-source enthusiast
+### Some of my stats...
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tekktrik&count_private=true&theme=tokyonight&showicons=true)]()
 
