@@ -1,4 +1,4 @@
-### I make things, some better then others, but all open-source!
+### I make things, some better then others, but most open-source!
 
 I'm a a mechanical engineer who escaped CAD and found `git`.  I work primarily on
 CircuitPython, with a focus on writing hardware driviers, improving documentation,
