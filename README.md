@@ -38,7 +38,7 @@ Languages/Skills:
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-~[Trophies](https://github-profile-trophy.vercel.app/?username=tekktrik)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tekktrik)
 
 <!---
 tekktrik/tekktrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
