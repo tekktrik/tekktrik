@@ -1,6 +1,6 @@
 ### I make things, some better then others, but most open-source!
 
-I'm a mechanical engineer who escaped CAD and found `git`.  I work primarily on
+I'm a mechanical engineer and software developer who escaped CAD and found `git`.  I work primarily on
 CircuitPython, with a focus on writing hardware driviers, improving documentation,
 and maintaining codebase infrastructure.
 
