@@ -17,9 +17,9 @@ Some of my more interesting libraries are pinned.
 
 Mixologist, D&D player, tinkerer, Pythonista, open-source enthusiast
 
-> - Mechanical engineering by profession
-> - Electrical engineering by provision
-> - Software engineering by passion
+> - Mechanical engineering by training
+> - Software engineering by trade
+> - Electrical engineering by trial and error
 
 ### Some of my stats...
 
