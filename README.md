@@ -4,8 +4,6 @@ I'm an engineer and software developer who escaped CAD and found `git`.  I work 
 CircuitPython, with a focus on writing hardware driviers, improving documentation,
 and maintaining codebase infrastructure.
 
-*Sponsored by Adafruit to work on CircuitPython!*
-
 ### Talk to me about...
 
 My passions are robotics and automation, and I'm always up for contributing to these
