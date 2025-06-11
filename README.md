@@ -43,7 +43,9 @@ Languages/Skills/Platforms:
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tekktrik)
+![tekktrik's Stats](https://github-readme-stats.vercel.app/api?username=tekktrik&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![tekktrik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekktrik&theme=tokyonight&hide_border=true)
+![tekktrik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekktrik&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 tekktrik/tekktrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
