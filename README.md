@@ -44,7 +44,9 @@ Languages/Skills/Platforms:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![tekktrik's Stats](https://github-readme-stats.vercel.app/api?username=tekktrik&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+
 ![tekktrik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekktrik&theme=tokyonight&hide_border=true)
+
 ![tekktrik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekktrik&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!---
